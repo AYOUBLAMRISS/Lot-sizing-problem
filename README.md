@@ -7,4 +7,4 @@ Cette détermination de la taille de lot de réapprovisionnement et du nombre d'
 
 L'article souligne également le développement de politiques de transport pour différentes configurations, avec des exemples tels que la politique d'expédition de Goyal et Nebebe, qui considère une première livraison assez petite suivie de lots plus importants. D'autres chercheurs ont abordé des problèmes tels que la taille de lot d'expédition, les coûts de transport et la sur-déclaration de la taille du lot (ceux qui n’est pas pris en compte ici), étant eux-mêmes des suivis des recherches de la politique de Cardenas-Barron, notion beaucoup plus compliquée sans intérêt avec le reste de notre développement.
 
-Vous trouvez dans le rapport ,Une reproduction et un analyse des résultats avec language python. 
+Vous trouvez dans le rapport une reproduction et une analyse des résultats avec le langage Python
